@@ -1,9 +1,28 @@
 .container {
   margin: 20px auto;
-  width: 600px;
+  width: 400px;
   padding: 0px 20px 20px 20px;
   border: 1px dotted black;
 }
-th {
-  text-align: left;
+
+h1 {
+  text-align: center;
+  color: #7794BF;
+}
+
+p {
+  text-align: center;
+  color: #7A7A7A;
+}
+
+h4 {
+  text-align: center;
+}
+
+img {
+  margin: 0 0 0 67px;
+}
+
+form {
+  margin: 0 0 0 39px;
 }
